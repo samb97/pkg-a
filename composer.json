@@ -7,7 +7,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "KalKore\\PkgA": "src"
+            "KalKore\\PkgA\\": "src"
         }
     }
 }
