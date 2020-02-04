@@ -1,5 +1,5 @@
 <?php
 
 Route::get('pkg-a', function() {
-    dd('This is pkg-a!');
+    dd('Woah woah woaaaah! This really IIIIS package A!');
 });
