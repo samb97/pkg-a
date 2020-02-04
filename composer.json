@@ -1,0 +1,13 @@
+{
+    "name": "kalkore/pkg-a",
+    "description": "This is the 'pkg-a' module of the kalkore system.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KalKore\\PkgA": "src"
+        }
+    }
+}
