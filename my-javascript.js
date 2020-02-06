@@ -1,4 +1,4 @@
-var x = 'x';
+var x = "x";
 
 if (x) {
     console.log('Yes this is X');
