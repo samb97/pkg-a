@@ -1,11 +1,11 @@
 var x = "x";
 
 if (x) {
-    console.log('Yes this is X');
+    return 5;
 }
 
-        else {
-            if (!x) {
-              console.log('no this is NOt x');
-            }
-        }
+else {
+    if (!x) {
+        return 4;
+    }
+}
